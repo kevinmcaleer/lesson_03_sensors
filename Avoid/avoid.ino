@@ -143,8 +143,8 @@ void loop(){
    }
    else {
      forward();
-     // wait 2 seconds
-    delay(2000);
+     // wait 
+    delay(wait_in_milliseconds);
    }
     
   }
