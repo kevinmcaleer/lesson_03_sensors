@@ -31,7 +31,7 @@ void setup() {
   // used when uploading your code
   Serial.begin(9600);
 
-  Serial.println("SMARS OS v1.0")
+  Serial.println("SMARS OS v1.0");
   // set the Arduino pin to OUTPUT mode
   pinMode(motor_A, OUTPUT);
   pinMode(motor_B, OUTPUT);
