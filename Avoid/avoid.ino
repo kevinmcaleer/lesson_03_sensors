@@ -1,5 +1,5 @@
 // Lesson 03 Sensors - Avoid Obstacles
-// www.smarsfan.com/play/lessons/lesson_02_turning
+// www.smarsfan.com/play/lessons/lesson_03_sensors
 
 // set Motor A to Arduino Pins
 int motor_A = 12;
