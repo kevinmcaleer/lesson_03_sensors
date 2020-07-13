@@ -1,3 +1,5 @@
+// Lesson 03 Sensors
+// www.smarsfan.com/play/lessons/lesson_03_sensors
 #define echoPin 8 // was 2
 #define trigPin 7  // was 3
 
